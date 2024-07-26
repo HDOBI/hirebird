@@ -42,10 +42,10 @@ function Subscribe() {
         <span className="mt-10 sm:mt-14 text-left font-medium text-[14.5px] text-greenishGray ml-1">
           Card Details:
         </span>
-        <div className="flex justify-between border -mt-3 bg-white px-4 py-[10px] rounded-full">
+        <div className="flex items-center justify-between border -mt-3 bg-white px-4 py-[10px] rounded-full">
           <input
             placeholder="Card Number"
-            className="outline-none w-auto text-[16px]"
+            className="outline-none max-w-[160px] sm:w-auto text-[15px]"
           />
           <div>
             <div class="flex items-center">
