@@ -44,14 +44,14 @@ function Subscribe() {
         <div className="flex justify-between border -mt-3 bg-white px-4 py-[10px] rounded-full">
           <input
             placeholder="Card Number"
-            className="outline-none text-[16px]"
+            className="outline-none w-auto  text-[16px]"
           />
           <div>
             <div class="flex items-center">
               <input
                 type="number"
                 placeholder="MM"
-                maxlength="2"
+         
                 class="bg-white outline-none w-7 text-[15px] "
               />
               /
@@ -65,14 +65,14 @@ function Subscribe() {
                 type="number"
                 placeholder="CVV"
                 maxlength="4"
-                class="bg-white outline-none w-8 ml-4"
+                class="bg-white outline-none w-8"
               />
             </div>
           </div>
         </div>
         <Button
           name="Subscribe"
-          className="bg-white w-full flex items-center justify-center text-center py-[10.5px] text-forestGreen"
+          className="bg-white flex items-center justify-center text-center py-[10.5px] text-forestGreen"
         />
       </div>
     </div>
