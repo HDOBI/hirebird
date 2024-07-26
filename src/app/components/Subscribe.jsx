@@ -42,7 +42,7 @@ function Subscribe() {
         <span className="mt-10 sm:mt-14 text-left font-medium text-[14.5px] text-greenishGray ml-1">
           Card Details:
         </span>
-        <div className="flex items-center justify-between border -mt-3 bg-white px-4 py-[10px] rounded-full">
+        <div className="flex items-center justify-between border -mt-3 bg-white px-4 py-[13px] rounded-full">
           <input
             placeholder="Card Number"
             className="outline-none max-w-[160px] sm:w-auto text-[15px]"
@@ -72,7 +72,7 @@ function Subscribe() {
         </div>
         <Button
           name="Subscribe"
-          className="bg-white flex items-center justify-center text-center py-[10.5px] text-forestGreen"
+          className="bg-white flex text-[17px] items-center justify-center text-center py-[11px] text-forestGreen"
         />
       </div>
     </div>
