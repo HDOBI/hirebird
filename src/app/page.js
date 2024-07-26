@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <main className="">
       <Header />
-      <Subscribe />
       <Hero />
       <Team />
       <Users />
       <DidntMatch />
       <OrderPage />
+      <Subscribe />
     </main>
   );
 }
