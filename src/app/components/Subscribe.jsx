@@ -40,7 +40,7 @@ function Subscribe() {
       </div>
       <div className="flex flex-col gap-4 px-3 sm:px-6 sm:w-full font-light text-[15px]">
         <span className="mt-10 sm:mt-14 text-left font-medium text-[14.5px] text-greenishGray ml-1">
-          Card Details
+          Card Details:
         </span>
         <div className="flex items-center justify-between border -mt-3 bg-white px-4 py-[13px] rounded-full">
           <input
