@@ -54,6 +54,7 @@ function Subscribe() {
                 placeholder="MM"
                 class="bg-white outline-none w-7 text-[15px] "
               />
+              
               /
               <input
                 type="number"
