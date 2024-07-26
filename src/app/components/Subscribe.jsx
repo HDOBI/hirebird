@@ -7,7 +7,7 @@ function Subscribe() {
   const { plans } = data;
 
   return (
-    <div className="flex flex-col p-8 items-center justify-center max-w-[440px] shadow-priceBox mx-3 sm:mx-auto text-center mt-4 sm:mt-6 px-3 md:px-0 rounded-[20px] overflow-x-hidden">
+    <div className="flex flex-col p-8 items-center justify-center max-w-[440px] shadow-priceBox mx-3 sm:mx-auto text-center my-4 sm:my-6 px-3 md:px-0 rounded-[20px] overflow-x-hidden">
       <h5 className="text-forestGreen font-medium text-[30px]">overview</h5>
       <p className="text-greenishGray">Confirm your cosemose plan</p>
       <div className="mt-6 w-full">
