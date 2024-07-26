@@ -9,7 +9,7 @@ import { BsBuildings } from "react-icons/bs";
 
 function Users() {
   return (
-    <div className="flex flex-col items-center justify-center text-center py-12 sm:py-20 px-3 md:px-0 overflow-x-hidden">
+    <div className="flex flex-col items-center justify-center text-center py-12 sm:py-14 px-3 md:px-0 overflow-x-hidden">
       <div className="flex gap-2 items-center">
         <div className="max-w-[100px]">
           <RiTeamLine className="text-lightGreen" size={20} />

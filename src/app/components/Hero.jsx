@@ -26,7 +26,7 @@ function Hero() {
         </div>
       </div>
       <div className="relative">
-        <div className="flex flex-col gap-4 text-center pt-14 h-[480vh] md:h-[720px]"></div>
+        <div className="flex flex-col gap-4 text-center pt-14 h-[480vh] md:h-[520px]"></div>
         <div className="absolute top-[40%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-[180px] md:w-[240px] h-auto -ml-[100px] md:-ml-[360px] -rotate-3">
           <Image className="bg-white rounded-[20px]" src={Card1} />
         </div>
