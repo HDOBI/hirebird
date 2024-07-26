@@ -9,7 +9,7 @@ function SelectPackage({ packageName, price }) {
   };
 
   return (
-    <div className="flex w-full text-[15px] items-center justify-between font-medium rounded-full py-[12.5px] border px-4 max-w-[400px] mx-auto bg-white">
+    <div className="flex w-full text-[15px] items-center justify-between font-medium rounded-full py-[12.5px] border px-4 mx-auto bg-white">
       <div className="flex items-center">
         <span className="min-w-[65px] max-w-[65px] text-left">
           {packageName}
