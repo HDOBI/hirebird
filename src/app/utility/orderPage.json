@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "price": "9.99",
+      "trialDays": 7,
+      "benefits": [
+        "Access to exclusive content",
+        "Ad-free experience",
+        "24/7 customer support",
+        "Early access to new features",
+        "Personalized recommendations",
+        "Monthly updates and improvements"
+      ]
+    },
+    {
+      "id": 2,
+      "price": "19.99",
+      "trialDays": 14,
+      "benefits": [
+        "Access to exclusive content",
+        "Ad-free experience",
+        "24/7 customer support",
+        "Early access to new features",
+        "Personalized recommendations",
+        "Monthly updates and improvements"
+      ]
+    },
+    {
+      "id": 3,
+      "price": "29.99",
+      "trialDays": 30,
+      "benefits": [
+        "Access to exclusive content",
+        "Ad-free experience",
+        "24/7 customer support",
+        "Early access to new features",
+        "Personalized recommendations",
+        "Monthly updates and improvements"
+      ]
+    }
+  ],
+  "ButtonName": "Upgrade & Download"
+}

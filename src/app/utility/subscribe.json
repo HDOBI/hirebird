@@ -1,0 +1,22 @@
+{
+  "plans": {
+    "monthly": {
+      "packageName": "Monthly",
+      "price": 8,
+      "billDatils": [
+        { "heading": "SubTotal", "value": 1000 },
+        { "heading": "Discount", "value": 1000 },
+        { "heading": "Total", "value": 1000 }
+      ]
+    },
+    "yearly": {
+      "packageName": "Yealry",
+      "price": 6,
+      "billDatils": [
+        { "heading": "SubTotal", "value": 1000 },
+        { "heading": "Discount", "value": 1000 },
+        { "heading": "Total", "value": 1000 }
+      ]
+    }
+  }
+}
