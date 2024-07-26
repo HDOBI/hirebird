@@ -7,7 +7,7 @@ function OrderPage() {
   const { cards, ButtonName } = data;
 
   return (
-    <div className="flex flex-col items-center justify-center text-center pb-20 px-3 md:px-0">
+    <div className="flex flex-col items-center justify-center text-center pb-10 px-3 md:px-0">
       <div className="max-w-[700px] mx-auto">
         <h1 className="text-[30px] leading-[30px] text-darkGreen md:text-[40px] md:leading-[40px] font-medium mt-4">
           Lorem ipsum dolor sit amet, consectetur.

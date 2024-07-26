@@ -30,7 +30,7 @@ function Users() {
       </p>
       <div className="relative">
         <div className="relative">
-          <div className="h-[50vh] md:h-[65vh]"></div>
+          <div className="h-[370px] md:h-[470px]"></div>
           <div className=" absolute top-10 md:top-14 left-1/2 -translate-x-1/2 hover:scale-110 w-[270px] md:w-[330px] h-auto -rotate-3 hover:rotate-0 transition duration-300">
             <Image
               className="bg-white shadow-lg rounded-[20px] w-full h-full object-cover"
